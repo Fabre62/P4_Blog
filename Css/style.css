@@ -1,0 +1,78 @@
+body {
+    padding-top: 3.5rem;
+  }
+/* titre */
+.display-3{
+  font-family: "Lucida calligraphy", cursive, sans-serif, monospace;
+  animation-duration: 3s!important;
+  animation-name: anim2;
+}
+/* animation du titre */
+@keyframes anim2 {
+  from {
+    margin-top: 100%;
+    width: 300%;
+  }}
+
+/* lien reseaux sociaux du footer */
+.fa-facebook-square{
+margin-left: 5px;
+border-top-width: 0px;
+border-top-style: solid;
+color: #212529;
+}
+
+.fa-twitter-square{
+  margin-left: 5px;
+  border-top-width: 0px;
+  border-top-style: solid;
+  color: #212529;
+}
+
+.fa-instagram{
+  margin-left: 5px;
+  border-top-width: 0px;
+  border-top-style: solid;
+  color: #212529;
+}
+
+
+a.nav-link:hover{
+  color: white!important;
+}
+
+/* effet hover sur les lien font-awesome du footer */
+.fa-facebook-square:hover{
+  color: #053b70;
+}
+
+.fa-twitter-square:hover{
+  color: #053b70;
+}
+
+.fa-instagram:hover{
+  color: #053b70;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
